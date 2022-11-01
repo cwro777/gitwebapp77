@@ -1,0 +1,7 @@
+C:\노철우교수\gitdeploy1\bin\Release\net6.0\publish\gitdeploy1.exe
+C:\노철우교수\gitdeploy1\bin\Release\net6.0\publish\appsettings.Development.json
+C:\노철우교수\gitdeploy1\bin\Release\net6.0\publish\appsettings.json
+C:\노철우교수\gitdeploy1\bin\Release\net6.0\publish\gitdeploy1.dll
+C:\노철우교수\gitdeploy1\bin\Release\net6.0\publish\gitdeploy1.deps.json
+C:\노철우교수\gitdeploy1\bin\Release\net6.0\publish\gitdeploy1.runtimeconfig.json
+C:\노철우교수\gitdeploy1\bin\Release\net6.0\publish\gitdeploy1.pdb
